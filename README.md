@@ -12,7 +12,9 @@
 
 
 <!--  JavaScript img -->
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
+</a>
 <br />
 
 
