@@ -17,6 +17,13 @@
 </a>
 
 
+<!-- NeoVim descripton link -->
+<a href="https://neovim.io/charter/">
+<!--  NeoVim img -->
+<img align="left" alt="NeoVim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"  />
+</a>
+
+
 
 <!-- JavaScript descripton link -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -35,13 +42,6 @@
 <!--  Terminal img -->
 <img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/7560/7560719.png"  />
 </a>
-
-<!-- NeoVim descripton link -->
-<a href="https://neovim.io/charter/">
-<!--  NeoVim img -->
-<img align="left" alt="NeoVim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"  />
-</a>
-
 
 <br />
 
