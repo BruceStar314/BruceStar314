@@ -23,6 +23,12 @@
 <img align="left" alt="NeoVim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"  />
 </a>
 
+<!-- Next.JS descripton link -->
+<a href="https://nextjs.org/docs">
+<!--  Next.JS img -->
+<img align="left" alt="Next.JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  />
+</a>
+
 
 
 <!-- JavaScript descripton link -->
