@@ -44,7 +44,7 @@
 </a>
 
 <!-- Linux descripton link -->
-<a href="https://en.wikipedia.org/wiki/Computer_terminal">
+<a href="https://en.wikipedia.org/wiki/Linux">
 <!--  Linux img -->
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  />
 </a>
