@@ -10,6 +10,13 @@
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
 
+<!-- Git descripton link -->
+<a href="https://git-scm.com/docs/git-describe">
+<!-- Git img -->
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</a>
+
+
 <!-- Linux descripton link -->
 <a href="https://en.wikipedia.org/wiki/Linux">
 <!--  Linux img -->
