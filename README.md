@@ -10,6 +10,12 @@
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
 
+<!-- Linux descripton link -->
+<a href="https://en.wikipedia.org/wiki/Linux">
+<!--  Linux img -->
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  />
+</a>
+
 <!-- VsCode descripton link -->
 <a href="https://code.visualstudio.com/docs/editor/whyvscode">
 <!--  VsCode img -->
@@ -47,12 +53,6 @@
 <a href="https://en.wikipedia.org/wiki/Computer_terminal">
 <!--  Terminal img -->
 <img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/7560/7560719.png"  />
-</a>
-
-<!-- Linux descripton link -->
-<a href="https://en.wikipedia.org/wiki/Linux">
-<!--  Linux img -->
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  />
 </a>
 
 <br />
