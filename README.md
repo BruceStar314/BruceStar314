@@ -60,10 +60,10 @@
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
 </a>
 
-<!-- Terminal descripton link -->
-<a href="https://en.wikipedia.org/wiki/Computer_terminal">
-<!--  Terminal img -->
-<img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="https://darryldias.me/wp-content/uploads/kitty.png"  />
+<!-- KittyTerminal descripton link -->
+<a href="https://sw.kovidgoyal.net/kitty/">
+<!--  KittyTerminal img -->
+<img align="left" alt="KittyTerminal" width="30px" style="padding-right:10px;" src="https://darryldias.me/wp-content/uploads/kitty.png"  />
 </a>
 
 <!-- Bash descripton link -->
