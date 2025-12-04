@@ -63,7 +63,7 @@
 <!-- Terminal descripton link -->
 <a href="https://en.wikipedia.org/wiki/Computer_terminal">
 <!--  Terminal img -->
-<img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/7560/7560719.png"  />
+<img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="https://darryldias.me/wp-content/uploads/kitty.png"  />
 </a>
 
 <!-- Bash descripton link -->
