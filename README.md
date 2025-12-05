@@ -1,3 +1,5 @@
+![image alt](https://github.com/BruceStar314/BruceStar314/blob/0e0f2028bed37393a3d6968f62da77d9562ced8f/flower.jpg)
+
 ## Bruce Reeves
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
