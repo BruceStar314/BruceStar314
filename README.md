@@ -2,6 +2,7 @@
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
+<!--Left-->
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td width="80" style="border: none;">
@@ -13,6 +14,22 @@
     <td style="border: none;">
       <h2>Who am I?</h2>
       <p>My name is Bruce Reeves; I've been programming since I was 15, I've been doing Engineering all my life, I love taking things apart and seeing how they function!</p>
+    </td>
+  </tr>
+</table>
+
+<!--Right-->
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <h2>Who am I?</h2>
+      <p>My name is Bruce Reeves; I've been programming since I was 15, I've been doing Engineering all my life, I love taking things apart and seeing how they function!</p>
+    </td>
+        <td width="80" style="border: none;">
+      <img 
+        src="https://i.pinimg.com/736x/3b/8a/41/3b8a41561703856730267c937b91db8f.jpg" 
+        width="80"
+      >
     </td>
   </tr>
 </table>
