@@ -2,7 +2,7 @@
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
-<table style="border: none;">
+<table border="0" style="border-collapse: collapse;">
   <tr>
     <td width="80" style="border: none;">
       <img 
@@ -16,7 +16,6 @@
     </td>
   </tr>
 </table>
-
 
 ---   
 ### Languages and Tools
