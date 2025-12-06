@@ -22,8 +22,8 @@
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      <h2>Who am I?</h2>
-      <p>My name is Bruce Reeves; I've been programming since I was 15, I've been doing Engineering all my life, I love taking things apart and seeing how they function!</p>
+      <h2>Interesting things about me!</h2>
+      <p>I speak two languages <i>English and Spanish</i> I am <i>Ambidextrous</i></p>
     </td>
         <td width="80" style="border: none;">
       <img 
