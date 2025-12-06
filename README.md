@@ -12,7 +12,7 @@
     </td>
     <td style="border: none;">
       <h2>Who am I?</h2>
-      <p>My name is Bruce Reeves</p>
+      <p>My name is Bruce Reeves; I've been programming since I was 15, I've been doing Engineering all my life, I love taking things apart and seeing how they function!</p>
     </td>
   </tr>
 </table>
