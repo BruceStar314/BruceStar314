@@ -1,8 +1,13 @@
 ![image alt](https://github.com/BruceStar314/BruceStar314/blob/b7dd2e46c9b9e6bbf379f730b3a913a640af0aed/Screenshot%202025-12-05%20at%2011.30.54.png)
 
-## Bruce Reeves
-
 **`(Full Stack Developer/Mechatronic Engineer)`**   
+
+<div width="full">
+  <span align="right">
+<h2>Who am I?</h2>
+<p>My name is Bruce Reeves</p>
+  </span>
+</div>/div>
 
 ---   
 ### Languages and Tools
