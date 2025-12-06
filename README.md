@@ -2,20 +2,21 @@
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
-<table style="border=:"none">
+<table style="border: none;">
   <tr>
-    <td width="80">
+    <td width="80" style="border: none;">
       <img 
         src="https://i.pinimg.com/736x/3b/8a/41/3b8a41561703856730267c937b91db8f.jpg" 
         width="80"
       >
     </td>
-    <td>
+    <td style="border: none;">
       <h2>Who am I?</h2>
       <p>My name is Bruce Reeves</p>
     </td>
   </tr>
 </table>
+
 
 ---   
 ### Languages and Tools
