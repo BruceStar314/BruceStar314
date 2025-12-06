@@ -6,7 +6,7 @@
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td width="80" style="border: none;">
-    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94" />![image alt](https://github.com/BruceStar314/BruceStar314/blob/b7dd2e46c9b9e6bbf379f730b3a913a640af0aed/Screenshot%202025-12-05%20at%2011.30.54.png)
+    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"
 " 
         width="80"
       >
