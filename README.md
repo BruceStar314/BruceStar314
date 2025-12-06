@@ -2,7 +2,7 @@
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
-<table style="paddding-right:10px" border="0">
+<table style="border=:"none">
   <tr>
     <td width="80">
       <img 
