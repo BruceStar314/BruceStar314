@@ -2,7 +2,7 @@
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
-<div width="full">
+<div width="full" height="100px" display="flex">
   <img aligh="left" alt="#" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/736x/3b/8a/41/3b8a41561703856730267c937b91db8f.jpg"
 "
   <span align="right;">
