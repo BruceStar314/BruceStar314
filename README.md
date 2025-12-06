@@ -7,8 +7,6 @@
   <tr>
     <td width="80" style="border: none;">
     <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"
-" 
-        width="80"
       >
     </td>
     <td style="border: none;">
@@ -32,8 +30,7 @@
     </td>
         <td width="80" style="border: none;">
       <img 
-        src="https://i.pinimg.com/736x/3b/8a/41/3b8a41561703856730267c937b91db8f.jpg" 
-        width="80"
+        src="<img width="500 height="500" alt="image" src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
       >
     </td>
   </tr>
