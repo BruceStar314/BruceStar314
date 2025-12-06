@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94" />![image alt](https://github.com/BruceStar314/BruceStar314/blob/b7dd2e46c9b9e6bbf379f730b3a913a640af0aed/Screenshot%202025-12-05%20at%2011.30.54.png)
+
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
@@ -6,8 +6,7 @@
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td width="80" style="border: none;">
-      <img 
-        src="/Users/User/Library/Containers/com.apple.Preview/Data/tmp/VKTemp/94BBC324-F598-4AFE-9668-7BE7ED7F94D8/Image.png"
+    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94" />![image alt](https://github.com/BruceStar314/BruceStar314/blob/b7dd2e46c9b9e6bbf379f730b3a913a640af0aed/Screenshot%202025-12-05%20at%2011.30.54.png)
 " 
         width="80"
       >
