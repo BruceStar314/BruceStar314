@@ -23,7 +23,11 @@
   <tr>
     <td style="border: none;">
       <h2>Interesting things about me!</h2>
-      <p>I speak two languages <i>English and Spanish</i> I am <i>Ambidextrous</i></p>
+      <ul>
+      <p><li>I speak two languages <i>English and Spanish</i><li> 
+        <li> I am <i>Ambidextrous</i></li>
+      </p>
+      </ul>
     </td>
         <td width="80" style="border: none;">
       <img 
