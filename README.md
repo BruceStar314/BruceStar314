@@ -2,14 +2,20 @@
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
-<div width="full" height="100px" display="flex">
-  <img aligh="left" alt="#" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/736x/3b/8a/41/3b8a41561703856730267c937b91db8f.jpg"
-"
-  <span align="right;">
-<h2>Who am I?</h2>
-<p>My name is Bruce Reeves</p>
-  </span>
+<div style="width: 100%; height: 100px; display: flex; align-items: center;">
+  <img 
+    alt="#" 
+    width="60" 
+    style="margin-right: 10px;" 
+    src="https://i.pinimg.com/736x/3b/8a/41/3b8a41561703856730267c937b91db8f.jpg"
+  />
+
+  <div style="display: flex; flex-direction: column; justify-content: center;">
+    <h2 style="margin: 0;">Who am I?</h2>
+    <p style="margin: 0;">My name is Bruce Reeves</p>
+  </div>
 </div>
+
 
 ---   
 ### Languages and Tools
