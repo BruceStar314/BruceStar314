@@ -1,4 +1,4 @@
-![image alt](https://github.com/BruceStar314/BruceStar314/blob/b7dd2e46c9b9e6bbf379f730b3a913a640af0aed/Screenshot%202025-12-05%20at%2011.30.54.png)
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94" />![image alt](https://github.com/BruceStar314/BruceStar314/blob/b7dd2e46c9b9e6bbf379f730b3a913a640af0aed/Screenshot%202025-12-05%20at%2011.30.54.png)
 
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
@@ -7,7 +7,8 @@
   <tr>
     <td width="80" style="border: none;">
       <img 
-        src="https://i.pinimg.com/736x/3b/8a/41/3b8a41561703856730267c937b91db8f.jpg" 
+        src="/Users/User/Library/Containers/com.apple.Preview/Data/tmp/VKTemp/94BBC324-F598-4AFE-9668-7BE7ED7F94D8/Image.png"
+" 
         width="80"
       >
     </td>
@@ -24,7 +25,8 @@
     <td style="border: none;">
       <h2>Interesting things about me!</h2>
       <ul>
-      <p><li>I speak two languages <i>English and Spanish</i><li> 
+      <p>
+        <li>I speak two languages <i>English and Spanish</i><li> 
         <li> I am <i>Ambidextrous</i></li>
       </p>
       </ul>
