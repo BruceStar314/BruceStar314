@@ -103,5 +103,12 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </a>
 
+<!-- Bash descripton link -->
+<a href="https://mywiki.wooledge.org/BashGuide">
+<!--  Bash img -->
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</a>
+
+
 
 <br />
