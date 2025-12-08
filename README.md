@@ -103,10 +103,10 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </a>
 
-<!-- Bash descripton link -->
-<a href="https://mywiki.wooledge.org/BashGuide">
-<!--  Bash img -->
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<!-- Figma descripton link -->
+<a href="https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma">
+<!--  Figma img -->
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </a>
 
 
