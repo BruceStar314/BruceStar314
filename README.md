@@ -15,24 +15,100 @@
   </tr>
 </table> -->
 
-<div style="display: flex; align-items: center; gap: 16px;">
+<!-- Banner -->
+<p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94" 
-    width="70" 
-    height="70" 
-    alt="Image"
-    style="border-radius: 8px;"
+    src="YOUR_BANNER_IMAGE_URL" 
+    alt="Banner" 
+    width="100%" 
   />
+</p>
 
-  <div>
-    <h2 style="margin: 0;">🧠 Who am I?</h2>
-    <p style="margin: 4px 0 0;">
-      My name is Bruce Reeves; I've been programming since I was 15.  
-      I've been doing engineering all my life — I love taking things apart 
-      and seeing how they function!
-    </p>
-  </div>
-</div>
+<!-- Title -->
+<h1 align="center">👋 Olá! Eu sou <strong>Bruce</strong></h1>
+
+<p align="center">
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=BruceStar314&style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/github/followers/BruceStar314?style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/BruceStar314?style=flat-square"></a>
+</p>
+
+---
+
+## <p align="center">🧠 Quem Sou Eu?</p>
+
+<p align="center">
+  <img 
+    src="YOUR_CHARACTER_IMAGE" 
+    width="150" 
+    alt="Character"
+  />
+</p>
+
+<p align="center">
+Sou desenvolvedor Full Stack em formação.<br>
+Tenho paixão por engenharia, desmontar coisas e entender como tudo funciona internamente.<br>
+Sempre em busca de evoluir meus limites mentalmente e tecnicamente.
+</p>
+
+---
+
+## <p align="center">💬 Um Pouco Mais Sobre Mim</p>
+
+<p align="center">
+💻 Desenvolvedor full stack <br>
+🥋 Pratico BJJ e gosto de testar meus limites <br>
+🧩 Ambidestro e apaixonado por desafios mentais <br>
+🎧 Sempre ouvindo Tyler, The Creator <br>
+♟️ Jogador de xadrez nas horas vagas <br>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spotify"></a>
+</p>
+
+---
+
+## <p align="center">📊 Github Status</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BruceStar314&theme=tokyonight" />
+</p>
+
+---
+
+## <p align="center">🧰 Minhas Stacks</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,postgres,python,rust,git,linux,docker,kotlin" />
+</p>
+
+---
+
+## <p align="center">📦 Meus Melhores Repositórios</p>
+
+<p align="center">
+  <a href="YOUR_REPO_1_URL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO1&theme=tokyonight" />
+  </a>
+  <a href="YOUR_REPO_2_URL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO2&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR_REPO_3_URL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO3&theme=tokyonight" />
+  </a>
+  <a href="YOUR_REPO_4_URL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO4&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 
 
 
