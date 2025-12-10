@@ -3,9 +3,9 @@
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
 <!--Left-->
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
+<table border="0">
+  <tr border="0">>
+    <td border="0">>
     <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"/>
     </td>
     <td>
