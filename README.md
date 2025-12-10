@@ -3,12 +3,12 @@
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
 <!--Left-->
-<table border="0" style="border-collapse: collapse;">
-  <tr border="0;">
-    <td width="full" height="50%" style="border: none;">
+<table>
+  <tr>
+    <td>
     <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"/>
     </td>
-    <td style="border: none;">
+    <td>
       <h2>🧠 Who am I?</h2>
       <p>My name is Bruce Reeves; I've been programming since I was 15, I've been doing Engineering all my life, I love taking things apart and seeing how they function!</p>
     </td>
@@ -16,7 +16,7 @@
 </table>
 
 <!--Right-->
-<table border:none style="border-collapse: collapse;">
+<!-- <table border:none style="border-collapse: collapse;">
   <tr border: none;>
     <td style="border: none;">
       <h2>Interesting things about me!</h2>
@@ -31,7 +31,7 @@
       <img width="50 height="500" alt="image" src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---   
 ### 🚀 Languages and Tools that I've learnt or used
