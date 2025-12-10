@@ -3,7 +3,7 @@
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
 <!--Left-->
-<table>
+<table style="border: none;">
   <tr>
     <td>
     <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"/>
