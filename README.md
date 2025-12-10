@@ -1,6 +1,5 @@
 
-<p align="center">
-  **`(Full Stack Developer/Mechatronic Engineer)`**  
+ <p align="center">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=BruceStar314&style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/followers/BruceStar314?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/stars/BruceStar314?style=flat-square"></a>
