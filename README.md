@@ -15,15 +15,6 @@
   </tr>
 </table> -->
 
-<!-- Banner -->
-<p align="center">
-  <img 
-    src="YOUR_BANNER_IMAGE_URL" 
-    alt="Banner" 
-    width="100%" 
-  />
-</p>
-
 <!-- Title -->
 <h1 align="center">👋 Olá! Eu sou <strong>Bruce</strong></h1>
 
@@ -39,7 +30,7 @@
 
 <p align="center">
   <img 
-    src="YOUR_CHARACTER_IMAGE" 
+    src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94" 
     width="150" 
     alt="Character"
   />
