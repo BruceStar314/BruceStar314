@@ -27,7 +27,7 @@
       </p> 
       </ul>
     </td>
-        <td width="80" style="border: none;">
+        <td width="full" style="border: none;">
       <img width="500 height="500" alt="image" src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
     </td>
   </tr>
