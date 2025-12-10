@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-Sou desenvolvedor Full Stack em formação.<br>
-Tenho paixão por engenharia, desmontar coisas e entender como tudo funciona internamente.<br>
-Sempre em busca de evoluir meus limites mentalmente e tecnicamente.
+ I'm a full-stack developer in training with a strong engineering mindset. I've been taking things apart my whole life, always curious about how they work and how they can be improved. 
+ I started programming at 15, and since then I've been driven by the challenge of building, breaking, and rebuilding—both in code and in life. 
+ I love pushing my limits, learning new technologies, and creating things that feel powerful and meaningful.
 </p>
 
 ---
