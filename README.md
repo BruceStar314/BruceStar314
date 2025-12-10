@@ -6,7 +6,7 @@
 <table border="0" style="border-collapse: collapse;">
   <tr border="0;">
     <td width="full" height="50%" style="border: none;">
-    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"/>
+    <img width="500" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"/>
     </td>
     <td style="border: none;">
       <h2>🧠 Who am I?</h2>
