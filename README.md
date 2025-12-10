@@ -16,8 +16,8 @@
 </table>
 
 <!--Right-->
-<table border="0" style="border-collapse: collapse;">
-  <tr border ="0;">
+<table border:none style="border-collapse: collapse;">
+  <tr border: none;>
     <td style="border: none;">
       <h2>Interesting things about me!</h2>
       <ul>
@@ -28,7 +28,7 @@
       </ul>
     </td>
         <td width="full" height="50%" style="border: none;">
-      <img width="100 height="500" alt="image" src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
+      <img width="50 height="500" alt="image" src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
     </td>
   </tr>
 </table>
