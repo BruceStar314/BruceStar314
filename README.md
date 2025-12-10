@@ -3,7 +3,7 @@
 **`(Full Stack Developer/Mechatronic Engineer)`**   
 
 <!--Left-->
-<table border="0">
+<!-- <table border="0">
   <tr border="0">>
     <td border="0">>
     <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"/>
@@ -13,7 +13,17 @@
       <p>My name is Bruce Reeves; I've been programming since I was 15, I've been doing Engineering all my life, I love taking things apart and seeing how they function!</p>
     </td>
   </tr>
-</table>
+</table> -->
+
+<div style="display: flex; align-items: center;">
+  <img width="50" height="50" style="margin-right: 10px;" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94" />
+
+  <div>
+    <h2>🧠 Who am I?</h2>
+    <p>My name is Bruce Reeves; I've been programming since I was 15. I've been doing engineering my whole life — I love taking things apart and seeing how they function!</p>
+  </div>
+</div>
+
 
 <!--Right-->
 <!-- <table border:none style="border-collapse: collapse;">
