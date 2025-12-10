@@ -16,8 +16,6 @@
 </table> -->
 
 <!-- Title -->
-<h1 align="center">👋 Olá! Eu sou <strong>Bruce</strong></h1>
-
 <p align="center">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=BruceStar314&style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/followers/BruceStar314?style=flat-square"></a>
@@ -52,7 +50,10 @@ Sempre em busca de evoluir meus limites mentalmente e tecnicamente.
 🧩 Ambidestro e apaixonado por desafios mentais <br>
 🎧 Sempre ouvindo Tyler, The Creator <br>
 ♟️ Jogador de xadrez nas horas vagas <br>
+  <img  src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
 </p>
+
+
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail"></a>
@@ -70,11 +71,7 @@ Sempre em busca de evoluir meus limites mentalmente e tecnicamente.
 
 ---
 
-## <p align="center">🧰 Minhas Stacks</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,postgres,python,rust,git,linux,docker,kotlin" />
-</p>
 
 ---
 
