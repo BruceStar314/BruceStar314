@@ -1,22 +1,6 @@
 
-
-**`(Full Stack Developer/Mechatronic Engineer)`**   
-
-<!--Left-->
-<!-- <table border="0">
-  <tr border="0">>
-    <td border="0">>
-    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"/>
-    </td>
-    <td>
-      <h2>🧠 Who am I?</h2>
-      <p>My name is Bruce Reeves; I've been programming since I was 15, I've been doing Engineering all my life, I love taking things apart and seeing how they function!</p>
-    </td>
-  </tr>
-</table> -->
-
-<!-- Title -->
 <p align="center">
+  **`(Full Stack Developer/Mechatronic Engineer)`**  
   <a href="#"><img src="https://komarev.com/ghpvc/?username=BruceStar314&style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/followers/BruceStar314?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/stars/BruceStar314?style=flat-square"></a>
@@ -24,7 +8,7 @@
 
 ---
 
-## <p align="center">🧠 Quem Sou Eu?</p>
+## <p align="center">🧠 Who am I?</p>
 
 <p align="center">
   <img 
@@ -42,14 +26,14 @@ Sempre em busca de evoluir meus limites mentalmente e tecnicamente.
 
 ---
 
-## <p align="center">💬 Um Pouco Mais Sobre Mim</p>
+## <p align="center">💬 A little more about me</p>
 
 <p align="center">
-💻 Desenvolvedor full stack <br>
-🥋 Pratico BJJ e gosto de testar meus limites <br>
-🧩 Ambidestro e apaixonado por desafios mentais <br>
-🎧 Sempre ouvindo Tyler, The Creator <br>
-♟️ Jogador de xadrez nas horas vagas <br>
+💻 Full stack developer <br>
+🥋 I practice MMA and enjoy testing my limits <br>
+🧩 Ambidextrous and passionate about mental challenges <br>
+🎧 Always listening to Tyler, The Creator <br>
+♟️ Chess player in my free time <br>
   <img  src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
 </p>
 
@@ -62,61 +46,6 @@ Sempre em busca de evoluir meus limites mentalmente e tecnicamente.
 </p>
 
 ---
-
-## <p align="center">📊 Github Status</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BruceStar314&theme=tokyonight" />
-</p>
-
----
-
-
-
----
-
-## <p align="center">📦 Meus Melhores Repositórios</p>
-
-<p align="center">
-  <a href="YOUR_REPO_1_URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO1&theme=tokyonight" />
-  </a>
-  <a href="YOUR_REPO_2_URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO2&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="YOUR_REPO_3_URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO3&theme=tokyonight" />
-  </a>
-  <a href="YOUR_REPO_4_URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO4&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-
-
-
-<!--Right-->
-<!-- <table border:none style="border-collapse: collapse;">
-  <tr border: none;>
-    <td style="border: none;">
-      <h2>Interesting things about me!</h2>
-      <ul>
-      <p>
-        <li>I speak two languages <i>English and Spanish</i><li> 
-        <li> I am <i>Ambidextrous</i></li>
-      </p> 
-      </ul>
-    </td>
-        <td width="full" height="50%" style="border: none;">
-      <img width="50 height="500" alt="image" src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
-    </td>
-  </tr>
-</table> -->
 
 ---   
 ### 🚀 Languages and Tools that I've learnt or used
@@ -198,3 +127,30 @@ Sempre em busca de evoluir meus limites mentalmente e tecnicamente.
 
 <br />
 
+---
+
+
+
+---
+
+## <p align="center">📦 My Best Repositories</p>
+
+<p align="center">
+  <a href="YOUR_REPO_1_URL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO1&theme=tokyonight" />
+  </a>
+  <a href="YOUR_REPO_2_URL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO2&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR_REPO_3_URL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO3&theme=tokyonight" />
+  </a>
+  <a href="YOUR_REPO_4_URL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO4&theme=tokyonight" />
+  </a>
+</p>
+
+---
