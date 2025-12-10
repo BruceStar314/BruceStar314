@@ -4,12 +4,12 @@
 
 <!--Left-->
 <table border="0" style="border-collapse: collapse;">
-  <tr>
+  <tr border="0;">
     <td width="80" style="border: none;">
     <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/372a46d2-302f-4637-a2f5-ed9aa87f8a94"/>
     </td>
     <td style="border: none;">
-      <h2>Who am I?</h2>
+      <h2>🧠 Who am I?</h2>
       <p>My name is Bruce Reeves; I've been programming since I was 15, I've been doing Engineering all my life, I love taking things apart and seeing how they function!</p>
     </td>
   </tr>
@@ -17,14 +17,14 @@
 
 <!--Right-->
 <table border="0" style="border-collapse: collapse;">
-  <tr>
+  <tr border ="0;">
     <td style="border: none;">
       <h2>Interesting things about me!</h2>
       <ul>
       <p>
         <li>I speak two languages <i>English and Spanish</i><li> 
         <li> I am <i>Ambidextrous</i></li>
-      </p>
+      </p> 
       </ul>
     </td>
         <td width="80" style="border: none;">
@@ -34,7 +34,7 @@
 </table>
 
 ---   
-### Languages and Tools
+### 🚀 Languages and Tools that I've learnt or used
 <!-- GitHub descripton link -->
 <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git">
 <!-- GitHub img -->
@@ -112,3 +112,4 @@
 
 
 <br />
+
