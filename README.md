@@ -1,4 +1,7 @@
+<!--Banner-->
+<img src=""/>
 
+<!--OverView-->
  <p align="center">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=BruceStar314&style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/followers/BruceStar314?style=flat-square"></a>
@@ -7,6 +10,7 @@
 
 ---
 
+<!--About Me-->
 ## <p align="center">🧠 Who am I?</p>
 
 <p align="center">
@@ -25,6 +29,8 @@
 
 ---
 
+
+<!--Fun Facts-->
 ## <p align="center">💬 A little more about me</p>
 
 <p align="center">
@@ -37,7 +43,7 @@
 </p>
 
 
-
+<!--Contact Info-->
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
@@ -47,6 +53,7 @@
 ---
 
 ---   
+<!--Tools-->
 ### 🚀 Languages and Tools that I've learnt or used
 <!-- GitHub descripton link -->
 <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git">
@@ -132,6 +139,7 @@
 
 ---
 
+<!--Best Repositories-->
 ## <p align="center">📦 My Best Repositories</p>
 
 <p align="center">
