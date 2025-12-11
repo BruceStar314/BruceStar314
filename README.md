@@ -44,14 +44,13 @@
 
 
 <!--Contact Info-->
-<p align="center height=100% widith=100%" >
+<p align="center height=50% widith=50%" >
   <a href="mailto:js.python03@gmail.com"><img src="https://github.com/user-attachments/assets/85f0d813-484c-4a95-8ffa-aa1972db46b5"></a>
  
-  <a href="https://open.spotify.com/user/31bc6fxzrd263zpzj4u3j6gf2fa4" target="_blank"><img src="https://github.com/user-attachments/assets/115025f9-0b3b-4e29a06b-5eabe6d0d781"></a>
+  <a href="https://open.spotify.com/user/31bc6fxzrd263zpzj4u3j6gf2fa4" target="_blank"><img src="https://github.com/user-attachments/assets/50aa35a5-6755-469b-bc76-7aec5b700aa8"></a>
 </p>
 
 ---
-
 ---   
 <!--Tools-->
 ### 🚀 Languages and Tools that I've learnt or used
