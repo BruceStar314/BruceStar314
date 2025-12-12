@@ -39,7 +39,6 @@
 🧩 Ambidextrous and passionate about mental challenges <br>
 🎧 Always listening to Music<br>
 ♟️ Chess player in my free time <br>
-  <img  src="https://github.com/user-attachments/assets/5988ec7d-98c9-4220-a0d9-ebe6606244ed"/>
 </p>
 
 
