@@ -44,7 +44,7 @@
 
 
 <!-- Contact Info -->
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:js.python03@gmail.com">
     <img width="80" height="80" src="https://github.com/user-attachments/assets/85f0d813-484c-4a95-8ffa-aa1972db46b5">
   </a>
@@ -52,7 +52,7 @@
   <a href="https://open.spotify.com/user/31bc6fxzrd263zpzj4u3j6gf2fa4" target="_blank">
     <img width="80" height="80" src="https://github.com/user-attachments/assets/50aa35a5-6755-469b-bc76-7aec5b700aa8">
   </a>
-</p>
+</p> -->
 
 ---
 ---   
