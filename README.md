@@ -145,7 +145,7 @@
 ## <p align="center">📦 My Best Repositories</p>
 
 <p align="center">
-  <a href="YOUR_REPO_1_URL">
+  <a href="https://github.com/BruceStar314/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO1&theme=tokyonight" />
   </a>
   <a href="YOUR_REPO_2_URL">
