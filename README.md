@@ -146,7 +146,7 @@
 
 <p align="center">
   <a href="https://github.com/BruceStar314/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=portfolio&theme=tokyonight" />
   </a>
   <a href="YOUR_REPO_2_URL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO2&theme=tokyonight" />
