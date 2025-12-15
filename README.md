@@ -29,7 +29,6 @@
 
 ---
 
-
 <!--Fun Facts-->
 ## <p align="center">💬 A little more about me</p>
 
@@ -41,20 +40,8 @@
 ♟️ Chess player in my free time <br>
 </p>
 
-
-<!-- Contact Info -->
-<!-- <p align="center">
-  <a href="mailto:js.python03@gmail.com">
-    <img width="80" height="80" src="https://github.com/user-attachments/assets/85f0d813-484c-4a95-8ffa-aa1972db46b5">
-  </a>
-
-  <a href="https://open.spotify.com/user/31bc6fxzrd263zpzj4u3j6gf2fa4" target="_blank">
-    <img width="80" height="80" src="https://github.com/user-attachments/assets/50aa35a5-6755-469b-bc76-7aec5b700aa8">
-  </a>
-</p> -->
-
----
 ---   
+
 <!--Tools-->
 ### 🚀 Languages and Tools that I've learnt or used
 <!-- GitHub descripton link -->
@@ -130,14 +117,7 @@
 <!--  Figma img -->
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </a>
-
-
-
 <br />
-
----
-
-
 
 ---
 
@@ -147,18 +127,6 @@
 <p align="center">
   <a href="https://github.com/BruceStar314/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=portfolio&theme=tokyonight" />
-  </a>
-  <a href="YOUR_REPO_2_URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO2&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="YOUR_REPO_3_URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO3&theme=tokyonight" />
-  </a>
-  <a href="YOUR_REPO_4_URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceStar314&repo=REPO4&theme=tokyonight" />
   </a>
 </p>
 
