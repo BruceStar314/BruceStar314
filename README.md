@@ -100,6 +100,12 @@
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
 </a>
 
+<!-- PostgreSQL descripton link -->
+<a href="https://www.typescriptlang.org/docs/">
+<!--  PostgreSQL img -->
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  />
+</a>
+
 <!-- KittyTerminal descripton link -->
 <a href="https://sw.kovidgoyal.net/kitty/">
 <!--  KittyTerminal img -->
