@@ -1,5 +1,7 @@
 <!--Banner-->
-<img src="https://github.com/BruceStar314/BruceStar314/blob/6ddddd5bb20143420c4ebe95a02b73c138c8dc4d/Screenshot%202025-12-05%20at%2011.30.54.png"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BruceStar314/BruceStar314/6ddddd5bb20143420c4ebe95a02b73c138c8dc4d/Screenshot%202025-12-05%20at%2011.30.54.png" alt="Banner"/>
+</p>
 
 <!--OverView-->
  <p align="center">
@@ -11,6 +13,7 @@
 ---
 
 <!--About Me-->
+
 ## <p align="center">🧠 Who am I?</p>
 
 <p align="center">
@@ -30,6 +33,7 @@
 ---
 
 <!--Fun Facts-->
+
 ## <p align="center">💬 A little more about me</p>
 
 <p align="center">
@@ -40,10 +44,13 @@
 ♟️ Chess player in my free time <br>
 </p>
 
----   
+---
 
 <!--Tools-->
-### 🚀 Languages and Tools that I've learnt or used
+
+## <p align="center">🚀 Languages and Tools that I've learnt or used</p>
+
+<p align="center">
 <!-- GitHub descripton link -->
 <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git">
 <!-- GitHub img -->
@@ -56,7 +63,6 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </a>
 
-
 <!-- Linux descripton link -->
 <a href="https://en.wikipedia.org/wiki/Linux">
 <!--  Linux img -->
@@ -68,7 +74,6 @@
 <!--  VsCode img -->
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
-
 
 <!-- NeoVim descripton link -->
 <a href="https://neovim.io/charter/">
@@ -121,22 +126,31 @@
 <!-- Figma descripton link -->
 <a href="https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma">
 <!--  Figma img -->
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"   />
 </a>
-<br />
 
----
-<!--Stats-->
-## <p align="center">📊 Stats</p>
-<p align="center">
- 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruceStar314)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceStar314&layout=compact)
 </p>
+<br>
+
+<br>
+
+<!--
+Stats
+
+## <p align="center">📊 Stats</p>
+
+<p align="center">
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruceStar314)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceStar314&layout=compact)
+
+</p>  -->
 
 ---
 
 <!--Best Repositories-->
+
 ## <p align="center">📦 My Best Repositories</p>
 
 <p align="center">
