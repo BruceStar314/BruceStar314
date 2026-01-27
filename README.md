@@ -105,6 +105,12 @@
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
 </a>
 
+<!-- Python descripton link -->
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+<!--  Python img -->
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  />
+</a>
+
 <!-- PostgreSQL descripton link -->
 <a href="https://en.wikipedia.org/wiki/PostgreSQL">
 <!--  PostgreSQL img -->
