@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BruceStar314/BruceStar314/6ddddd5bb20143420c4ebe95a02b73c138c8dc4d/Namebanner.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/BruceStar314/BruceStar314/6ddddd5bb20143420c4ebe95a02b73c138c8dc4d/Name.png" alt="Banner"/>
 </p>
 
 <!--OverView-->
