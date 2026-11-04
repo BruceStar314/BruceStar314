@@ -117,10 +117,9 @@
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  />
 </a>
 
-<!-- KittyTerminal descripton link -->
 <a href="https://sw.kovidgoyal.net/kitty/">
 <!--  KittyTerminal img -->
-<img align="left" alt="KittyTerminal" width="30px" style="padding-right:10px;" src="https://darryldias.me/wp-content/uploads/kitty.png"  />
+<img align="left" alt="KittyTerminal" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kovidgoyal/kitty/8f6dceb61836e014d831ba941166ae7a5822855b/logo/kitty.svg"  />
 </a>
 
 <!-- Bash descripton link -->
